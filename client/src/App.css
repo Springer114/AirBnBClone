@@ -10,3 +10,25 @@ nav {
 nav img {
 	margin: 20px 30px;
 }
+
+.hero {
+	display: flex;
+	justify-content: center;
+    flex-direction: column;
+	margin: 0 36px
+}
+.hero img {
+	margin: 26px;
+}
+
+.hero h1 {
+	font-family: 'Poppins';
+	font-size: 36px;
+	margin: 0 0 16px 0;
+}
+
+.hero p {
+	font-family: 'Poppins';
+	font-size: 16px;
+	margin: 0;
+}
